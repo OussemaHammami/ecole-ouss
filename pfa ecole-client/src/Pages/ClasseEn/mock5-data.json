@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "level": "Jenny Chan",
+      "name": "3A",
+      "number": "333-962-7516",
+      "schoolYear": "2020-2021"
+    },
+    {
+      "id": 2,
+      "level": "Jessica warren",
+      "name": "4 B",
+      "number": "011-211-7516",
+      "schoolYear": "2020-2021"
+    },
+    
+    {
+      "id": 2,
+      "level": "Jessica warren",
+      "name": "1A",
+      "number": "011-211-7516",
+      "schoolYear": "2020-2021"
+    },
+    {
+      "id": 2,
+      "level": "Jessica warren",
+      "name": "2B",
+      "number": "011-211-7516",
+      "schoolYear": "2020-2021"
+    }
+    
+  ]

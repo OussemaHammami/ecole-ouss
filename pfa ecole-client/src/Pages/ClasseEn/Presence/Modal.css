@@ -1,0 +1,14 @@
+.Modal{
+    width: 800px;
+    margin-left: 400px;
+    background-color: white;
+   
+    margin-top: 270px;
+    border-radius: 10px;
+
+}
+.close2{
+    color: orangered;
+    text-align: center;
+    cursor: pointer;
+}

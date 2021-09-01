@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "idProf": "Mohamed",
+      "idClasse": "1A",
+      "idMat": "Math",
+      "annee": "2020-2021"
+    },
+    {
+      "id": 2,
+      "idProf": "Lobna",
+      "idClasse": "2B",
+      "idMat": "Sport",
+      "annee": "2020-2021"
+    },
+    {
+      "id": 3,
+      "idProf": "Ali",
+      "idClasse": "1B",
+      "idMat": "Physique",
+      "annee": "2020-2021"
+    }
+    
+  ]

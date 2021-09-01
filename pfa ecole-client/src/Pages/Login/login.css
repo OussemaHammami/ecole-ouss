@@ -1,0 +1,29 @@
+
+.card{
+    background:#ffffff ;
+    position: absolute;
+   width: 1000px;
+   height: 550px;
+   border-radius:10px;
+
+     
+}
+.card-action{
+    background: #ffab9100 !important;
+}
+.label{
+    font-size:16px;
+    color:#ccc;
+}
+#div1{
+    background-origin:content-box;
+}
+.login{
+    padding-left: 280px;
+    padding-top:55px ;
+
+}
+.btn-large{
+    background-color: rgb(248, 151, 167);
+}
+

@@ -1,0 +1,54 @@
+.responsive-table{
+    background-color: rgba(174, 194, 255, 0.644);
+    
+    }
+    .container{
+        padding-left: 200px;
+        padding-right: 20px;
+        padding-top: 20px;
+        width: 2000px;
+        display: flex;
+        
+    }
+    
+    .cont5{
+        background-color: #f4f9fc;
+        border-radius: 10px;
+        padding-bottom: 30px;
+        
+        
+       
+    }
+    .cont15{
+        background-color: #ffffff;
+        border-radius: 10px;
+        padding-top: 10px;
+        margin-top: 50px;
+        width: 1000px;
+    }
+    
+    .add5{
+        padding-right: 980px;
+        padding-left: 30px;
+        padding-bottom: 10px;
+        height: 30px;
+        
+      
+        
+        
+    }
+    .cov15 {
+        width: 1000px;
+        height: 100px;
+        margin-left: 330px ;
+        margin-top: 70px ;
+        border-radius: 10px;
+       
+    }
+    .form1{
+        
+        display: flex;
+    flex-flow:row-reverse;
+        
+        
+   }

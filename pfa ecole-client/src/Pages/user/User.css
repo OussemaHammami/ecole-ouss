@@ -1,0 +1,80 @@
+.user{
+    background-color: white;
+    width: 300px;
+    direction: rtl;
+    padding-right: 20px;
+    border-radius: 10px;
+    height: 300px;
+    margin-top: 150px;
+    margin-right: 100px;
+    margin-left: -300px;
+    
+}
+.edit{
+    direction: rtl;
+    width: 500px;
+    height: 500px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: white;
+    display: inline;
+    padding-right: 40px;
+    margin-left: 100px;
+    
+    
+    
+}
+.users{
+    display: flex;
+    justify-content: space-between;
+}
+.usertitle{
+  color: rgb(167, 167, 167);
+  padding-top: 10px;
+  
+}
+.adminic{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    cursor: pointer;
+   margin-top: 10px;
+   
+}
+.userName{
+    font-size: 20px;
+    font-weight: 900;
+}
+.divName{
+    padding-right: 20px;
+}
+.divinfo{
+     padding-right: 65px;
+     padding-top: 10px;
+     
+    
+}
+.info{
+    font-size: 20px;
+     
+}
+.cov2 {
+    width: 1050px;
+    height: 200px;
+    margin-left: 330px ;
+    margin-left: 330px ;
+    margin-top: 50px ;
+    border-radius: 10px;
+    
+   
+}
+.infoic{
+    padding-top: 10px;
+}
+.covuser{
+    width: 300px;
+    height: 90px;
+    border-radius: 10px;
+    margin-left: 60px;
+    margin-top: 20px;
+}

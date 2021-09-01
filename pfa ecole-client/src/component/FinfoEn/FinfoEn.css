@@ -1,0 +1,53 @@
+.box{
+    background-color: white;
+    width: 330px;
+    height: 140px;
+    border-radius: 10px;
+}
+
+.boxs{
+    display: flex;
+    padding: 20px;
+    justify-content: space-between ;
+    padding-top: 40px;
+    width: 1090px;
+    margin-left: -5px;
+}
+.ic{
+    margin-left: 10px;
+    margin-top: 20px;
+    border-radius: 50%;
+    color: white;
+   
+}
+
+.t{
+    margin-top: -130px;
+    text-align: center;
+    margin-left:20px;
+}
+.featR{
+    font-size: 70px;
+    margin-top: -40px;
+    text-decoration: underline #ff5722;
+}
+.featR1{
+    font-size: 70px;
+    margin-top: -40px;
+    text-decoration: underline #03a9f4 ;
+}
+.featR2{
+    font-size: 70px;
+    margin-top: -40px;
+    text-decoration: underline #b388ff ;
+}
+.featM{
+    margin-top: 50px;
+    margin-left: 200px;
+    font-size: 15px;
+    color: rgb(170, 170, 170);
+}
+
+.featS{
+    margin-top:-70px;
+}

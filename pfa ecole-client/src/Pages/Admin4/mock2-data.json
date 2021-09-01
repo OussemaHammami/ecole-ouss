@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "level": "Jenny Chan",
+      "name": "3 waterfoot road",
+      "number": "333-962-7516",
+      "schoolYear": "jenny.chan@schoolYear.com"
+    },
+    {
+      "id": 2,
+      "level": "Jessica warren",
+      "name": "4 tall town",
+      "number": "011-211-7516",
+      "schoolYear": "jessica.warren@schoolYear.com"
+    },
+    {
+      "id": 3,
+      "level": "Tony Frank",
+      "name": "11 lesly road",
+      "number": "788-962-7516",
+      "schoolYear": "tony.frank@schoolYear.com"
+    },
+    {
+      "id": 4,
+      "level": "Jeremy Clark",
+      "name": "333 miltown manor",
+      "number": "011-962-111",
+      "schoolYear": "jeremy.clark@schoolYear.com"
+    },
+    {
+      "id": 5,
+      "level": "Raymond Edwards",
+      "name": "99 blue acres",
+      "number": "3231-962-7516",
+      "schoolYear": "raymon.edwards@schoolYear.com"
+    }
+  ]
